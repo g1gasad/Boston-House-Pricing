@@ -32,5 +32,8 @@ def predict():
     return render_template("home.html", 
                            prediction_text=f"The predicted house price is {output}")
 
+
+
+
 if __name__=="__main__":
     app.run(debug=True)
