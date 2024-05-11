@@ -7,7 +7,8 @@ __pycache__/
 *.so
 
 # Dataset
-Data/
+# Data/
+NOTES.txt
 
 # Distribution / packaging
 .Python
